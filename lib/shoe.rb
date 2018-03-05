@@ -10,7 +10,7 @@ def brand
 end
 
 def color(color)
-  @color 
+  @color
 end
 
 def size=
